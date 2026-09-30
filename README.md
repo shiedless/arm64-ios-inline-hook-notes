@@ -247,4 +247,11 @@ Match the symptom to the trap and you'll fix it in minutes instead of hours.
 
 ---
 
+<p align="center">
+  <sub><b>part 3 of 7</b> in the <a href="https://github.com/shiedless/ios-ue4-re">ios-ue4-re</a> series</sub><br>
+  <sub>← <a href="https://github.com/shiedless/xor-string-deobf-notes">xor-string-deobf-notes</a> · <a href="https://github.com/shiedless/ios-ue4-re">index</a> · <a href="https://github.com/shiedless/ue4-ios-gworld-gnames-notes">ue4-ios-gworld-gnames-notes</a> →</sub>
+</p>
+
+---
+
 <p align="center">— shiedless</p>
